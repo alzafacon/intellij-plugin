@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.alzafacon.intellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.alzafacon.intellijplugin.MyBundle
 
 class MyApplicationService {
 
